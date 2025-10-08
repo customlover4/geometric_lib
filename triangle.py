@@ -1,5 +1,7 @@
 def area(a, h):
+    '''Принимает числа a и h(сторона, высота), возвращает площадь'''
     return a * h / 2
 
-def perimeter(a ,b,c):
+def perimeter(a, b, c):
+    '''Принимает числа a, b, c(стороны), возвращает периметр'''
     return a + b + c
