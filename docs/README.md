@@ -60,7 +60,8 @@ perimeter(2, 3, 4) # example
 ```
 
 ## Commits
-- 
+- 4e7d3f82d29deca311bc9b43f7ab63877004c5f2 | feat: update readme.md
+- e4c0b3d5fec15c399577a4c5c32aaddb64f52ed1 | feat: update readme.md
 - ddd15fa83be5a4c5155a0724fef0a7ddb2f1dbbd | feat: add documentation for triangle.py
 - 676f858405f879c01746e7b75ed14e00ec5393d6 | feat: add documentation for square.py
 - 82c50957182271f22f9d98df0e6a4042ee14c615 | feat: add documentattion for rectangle.py
