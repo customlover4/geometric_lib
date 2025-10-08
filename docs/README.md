@@ -19,44 +19,44 @@
 ```
 def area(r):
     ... # function for calculating circle area
-area(2)
+area(2) # example
 
 def perimeter(r):
     ... # function for calculating circle perimeter
-perimeter(3)
+perimeter(3) # example
 ```
 
 ### rectangle.py
 ```
 def area(a, b):
     ... # function for calculating rectangle area
-area(1, 2)
+area(1, 2) # example
 
 def perimeter(a, b):
     ... # function for calculating rectangle perimeter
-perimeter(2, 3)
+perimeter(2, 3) # example
 ```
 
 ### square.py
 ```
 def area(a):
     ... # function for calculating square area
-area(2)
+area(2) # example
 
 def perimeter(a):
     ... # function for calculating square perimeter
-perimeter(2)
+perimeter(2) # example
 ```
 
 ### triangle.py
 ```
 def area(a, h):
     ... # function for calculating triangle area
-area(2, 3)
+area(2, 3) # example
 
 def perimeter(a, b, c):
     ... # function for calculating triangle perimeter
-perimeter(2, 3, 4)
+perimeter(2, 3, 4) # example
 ```
 
 ## Commits
