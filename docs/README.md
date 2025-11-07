@@ -16,7 +16,7 @@
 
 ## Functions
 ### circle.py
-```
+```python
 def area(r):
     ... # function for calculating circle area
 area(2) # example
@@ -27,7 +27,7 @@ perimeter(3) # example
 ```
 
 ### rectangle.py
-```
+```python
 def area(a, b):
     ... # function for calculating rectangle area
 area(1, 2) # example
@@ -38,7 +38,7 @@ perimeter(2, 3) # example
 ```
 
 ### square.py
-```
+```python
 def area(a):
     ... # function for calculating square area
 area(2) # example
@@ -49,7 +49,7 @@ perimeter(2) # example
 ```
 
 ### triangle.py
-```
+```python
 def area(a, h):
     ... # function for calculating triangle area
 area(2, 3) # example
@@ -60,6 +60,8 @@ perimeter(2, 3, 4) # example
 ```
 
 ## Commits
+- 975979d20e062852e6e42202708d4fe0861add8c | feat: change functions for test passing
+- 1cab1190c91431b0587e1db84b5be7fc8acc5834 | feat: add tests
 - 4e7d3f82d29deca311bc9b43f7ab63877004c5f2 | feat: update readme.md
 - e4c0b3d5fec15c399577a4c5c32aaddb64f52ed1 | feat: update readme.md
 - ddd15fa83be5a4c5155a0724fef0a7ddb2f1dbbd | feat: add documentation for triangle.py
