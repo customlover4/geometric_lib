@@ -60,6 +60,7 @@ perimeter(2, 3, 4) # example
 ```
 
 ## Commits
+- 68734be9f73029fc65d2c50c14999281d57277e0 | feat: add testing.md
 - 975979d20e062852e6e42202708d4fe0861add8c | feat: change functions for test passing
 - 1cab1190c91431b0587e1db84b5be7fc8acc5834 | feat: add tests
 - 4e7d3f82d29deca311bc9b43f7ab63877004c5f2 | feat: update readme.md
