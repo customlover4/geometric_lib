@@ -22,6 +22,6 @@ class RectangleTestCase(unittest.TestCase):
         res = rectangle.perimeter(10, 20)
         self.assertEqual(res, 60)
     
-    def test_zero_mul(self):
+    def test_zero_per(self):
         res = rectangle.perimeter(0, 10)
         self.assertEqual(res, 0)

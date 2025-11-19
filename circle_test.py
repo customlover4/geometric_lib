@@ -23,6 +23,6 @@ class RectangleTestCase(unittest.TestCase):
         res = circle.perimeter(5)
         self.assertEqual(res, 2 * math.pi * 5)
     
-    def test_zero_mul(self):
+    def test_zero_per(self):
         res = circle.perimeter(0)
         self.assertEqual(res, 0)
